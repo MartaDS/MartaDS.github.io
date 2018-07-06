@@ -125,7 +125,7 @@
   background-color: transparent; }
 
 .bg-gradient-x-danger {
-  background-image: linear-gradient(to right, #FF394F 0%, #FF8090 100%);
+  background-image: linear-gradient(to right, #ff4961 0%, #ffadb8 100%);
   background-repeat: repeat-x; }
 
 .bg-gradient-y-danger {
